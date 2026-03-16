@@ -1,0 +1,1000 @@
+[DE] Geh. [EN] Go.
+[DE] Hallo! [EN] Hi.
+[DE] Grüß Gott! [EN] Hi.
+[DE] Lauf! [EN] Run!
+[DE] Lauf! [EN] Run.
+[DE] Potzdonner! [EN] Wow!
+[DE] Donnerwetter! [EN] Wow!
+[DE] Kopf runter! [EN] Duck!
+[DE] Feuer! [EN] Fire!
+[DE] Hilfe! [EN] Help!
+[DE] Zu Hülf! [EN] Help!
+[DE] Versteck dich! [EN] Hide.
+[DE] Versteckt euch! [EN] Hide.
+[DE] Bleib! [EN] Stay.
+[DE] Stopp! [EN] Stop!
+[DE] Anhalten! [EN] Stop!
+[DE] Warte! [EN] Wait!
+[DE] Warte. [EN] Wait.
+[DE] Fang an. [EN] Begin.
+[DE] Mache es! [EN] Do it.
+[DE] Tue es. [EN] Do it.
+[DE] Mach weiter. [EN] Go on.
+[DE] Hallo! [EN] Hello!
+[DE] Sers! [EN] Hello!
+[DE] Hallo! [EN] Hello.
+[DE] Beeil dich! [EN] Hurry!
+[DE] Schnell! [EN] Hurry!
+[DE] Ich versteckte mich. [EN] I hid.
+[DE] Ich habe mich versteckt. [EN] I hid.
+[DE] Ich rannte. [EN] I ran.
+[DE] Ich verstehe. [EN] I see.
+[DE] Aha. [EN] I see.
+[DE] Ich versuche es. [EN] I try.
+[DE] Ich probiere es. [EN] I try.
+[DE] Ich hab gewonnen! [EN] I won!
+[DE] Ich habe gewonnen! [EN] I won!
+[DE] Ich habe gewonnen. [EN] I won.
+[DE] Oh, Nein! [EN] Oh no!
+[DE] Entspann dich. [EN] Relax.
+[DE] Feuer! [EN] Shoot!
+[DE] Schieß! [EN] Shoot!
+[DE] Lächeln! [EN] Smile.
+[DE] Entschuldigung? [EN] Sorry?
+[DE] Frag mich! [EN] Ask me.
+[DE] Fragt mich! [EN] Ask me.
+[DE] Fragen Sie mich! [EN] Ask me.
+[DE] Angriff! [EN] Attack!
+[DE] Attacke! [EN] Attack!
+[DE] Kauf’s! [EN] Buy it.
+[DE] Zum Wohl! [EN] Cheers!
+[DE] Iss es. [EN] Eat it.
+[DE] Iss fertig! [EN] Eat up.
+[DE] Iss auf. [EN] Eat up.
+[DE] Iss auf! [EN] Eat up.
+[DE] Ausatmen! [EN] Exhale.
+[DE] Keine Bewegung! [EN] Freeze!
+[DE] Stehenbleiben! [EN] Freeze!
+[DE] Geh jetzt! [EN] Go now.
+[DE] Verstanden! [EN] Got it!
+[DE] Ich hab’s! [EN] Got it!
+[DE] Aha! [EN] Got it!
+[DE] Kapiert? [EN] Got it?
+[DE] Verstanden? [EN] Got it?
+[DE] Einverstanden? [EN] Got it?
+[DE] Er rannte. [EN] He ran.
+[DE] Er lief. [EN] He ran.
+[DE] Mach mit! [EN] Hop in.
+[DE] Spring rein! [EN] Hop in.
+[DE] Drück mich! [EN] Hug me.
+[DE] Nimm mich in den Arm! [EN] Hug me.
+[DE] Umarme mich! [EN] Hug me.
+[DE] Mir ist es wichtig. [EN] I care.
+[DE] Ich fiel. [EN] I fell.
+[DE] Ich fiel hin. [EN] I fell.
+[DE] Ich stürzte. [EN] I fell.
+[DE] Ich bin hingefallen. [EN] I fell.
+[DE] Ich bin gestürzt. [EN] I fell.
+[DE] Ich flüchtete. [EN] I fled.
+[DE] Ich bin geflüchtet. [EN] I fled.
+[DE] Ich weiß. [EN] I know.
+[DE] Ich habe gelogen. [EN] I lied.
+[DE] Ich habe verloren. [EN] I lost.
+[DE] Ich habe bezahlt. [EN] I paid.
+[DE] Ich zahlte. [EN] I paid.
+[DE] Ich passe. [EN] I pass.
+[DE] Ich kündige. [EN] I quit.
+[DE] Ich sang. [EN] I sang.
+[DE] Ich spuckte. [EN] I spit.
+[DE] Ich habe gespuckt. [EN] I spit.
+[DE] Ich schwimme. [EN] I swim.
+[DE] Ich weinte. [EN] I wept.
+[DE] Ich habe geweint. [EN] I wept.
+[DE] Ich bin 19 Jahre alt. [EN] I'm 19.
+[DE] Ich bin 19. [EN] I'm 19.
+[DE] Mir geht's gut. [EN] I'm OK.
+[DE] Es geht mir gut. [EN] I'm OK.
+[DE] Ich bin wach. [EN] I'm up.
+[DE] Ich bin auf. [EN] I'm up.
+[DE] Einatmen! [EN] Inhale.
+[DE] Hört zu. [EN] Listen.
+[DE] Unmöglich! [EN] No way!
+[DE] Das kommt nicht in Frage! [EN] No way!
+[DE] Das gibt’s doch nicht! [EN] No way!
+[DE] Ausgeschlossen! [EN] No way!
+[DE] In keinster Weise! [EN] No way!
+[DE] Wirklich? [EN] Really?
+[DE] Echt? [EN] Really?
+[DE] Im Ernst? [EN] Really?
+[DE] Danke! [EN] Thanks!
+[DE] Danke! [EN] Thanks.
+[DE] Versuch’s! [EN] Try it.
+[DE] Wir versuchen es. [EN] We try.
+[DE] Wir haben gewonnen. [EN] We won.
+[DE] Warum ich? [EN] Why me?
+[DE] Ist mit mir alles in Ordnung? [EN] Am I OK?
+[DE] Frag Tom! [EN] Ask Tom.
+[DE] Fragen Sie Tom! [EN] Ask Tom.
+[DE] Fragt Tom! [EN] Ask Tom.
+[DE] Frag Tom. [EN] Ask Tom.
+[DE] Fantastisch! [EN] Awesome!
+[DE] Entspann dich! [EN] Be cool.
+[DE] Sei nicht ungerecht! [EN] Be fair.
+[DE] Sei fair! [EN] Be fair.
+[DE] Sei nett! [EN] Be kind.
+[DE] Sei nett! [EN] Be nice.
+[DE] Seien Sie nett! [EN] Be nice.
+[DE] Geh weg! [EN] Beat it.
+[DE] Hau ab! [EN] Beat it.
+[DE] Verschwinde! [EN] Beat it.
+[DE] Verdufte! [EN] Beat it.
+[DE] Mach dich fort! [EN] Beat it.
+[DE] Zieh Leine! [EN] Beat it.
+[DE] Mach dich vom Acker! [EN] Beat it.
+[DE] Verzieh dich! [EN] Beat it.
+[DE] Verkrümele dich! [EN] Beat it.
+[DE] Troll dich! [EN] Beat it.
+[DE] Zisch ab! [EN] Beat it.
+[DE] Pack dich! [EN] Beat it.
+[DE] Mach ’ne Fliege! [EN] Beat it.
+[DE] Schwirr ab! [EN] Beat it.
+[DE] Mach die Sause! [EN] Beat it.
+[DE] Scher dich weg! [EN] Beat it.
+[DE] Scher dich fort! [EN] Beat it.
+[DE] Verbrenne es! [EN] Burn it.
+[DE] Verbrennt es! [EN] Burn it.
+[DE] Verbrennen Sie es! [EN] Burn it.
+[DE] Vergrabe es! [EN] Bury it.
+[DE] Ruf mich an. [EN] Call me.
+[DE] Komm herein. [EN] Come in.
+[DE] Herein! [EN] Come in.
+[DE] Komm! [EN] Come on!
+[DE] Kommt! [EN] Come on!
+[DE] Mach schon! [EN] Come on!
+[DE] Macht schon! [EN] Come on!
+[DE] Komm schon! [EN] Come on.
+[DE] Lasst es fallen! [EN] Drop it!
+[DE] Fallen lassen! [EN] Drop it!
+[DE] Fallen lassen! [EN] Drop it.
+[DE] Füttere uns! [EN] Feed us.
+[DE] Füttert uns! [EN] Feed us.
+[DE] Falte es zusammen! [EN] Fold it.
+[DE] Hol Tom. [EN] Get Tom.
+[DE] Raus! [EN] Get out!
+[DE] Geht raus! [EN] Get out!
+[DE] Geh raus. [EN] Get out.
+[DE] Geht raus! [EN] Get out.
+[DE] Geh weg! [EN] Go away!
+[DE] Hau ab! [EN] Go away!
+[DE] Verschwinde! [EN] Go away!
+[DE] Verdufte! [EN] Go away!
+[DE] Mach dich fort! [EN] Go away!
+[DE] Zieh Leine! [EN] Go away!
+[DE] Mach dich vom Acker! [EN] Go away!
+[DE] Verzieh dich! [EN] Go away!
+[DE] Verkrümele dich! [EN] Go away!
+[DE] Troll dich! [EN] Go away!
+[DE] Zisch ab! [EN] Go away!
+[DE] Pack dich! [EN] Go away!
+[DE] Mach ’ne Fliege! [EN] Go away!
+[DE] Schwirr ab! [EN] Go away!
+[DE] Mach die Sause! [EN] Go away!
+[DE] Scher dich weg! [EN] Go away!
+[DE] Scher dich fort! [EN] Go away!
+[DE] Gehen Sie weg! [EN] Go away!
+[DE] Geh weg! [EN] Go away.
+[DE] Verpiss dich! [EN] Go away.
+[DE] Hau ab! [EN] Go away.
+[DE] Verschwinde! [EN] Go away.
+[DE] Verdufte! [EN] Go away.
+[DE] Mach dich fort! [EN] Go away.
+[DE] Zieh Leine! [EN] Go away.
+[DE] Mach dich vom Acker! [EN] Go away.
+[DE] Verzieh dich! [EN] Go away.
+[DE] Verkrümele dich! [EN] Go away.
+[DE] Troll dich! [EN] Go away.
+[DE] Zisch ab! [EN] Go away.
+[DE] Pack dich! [EN] Go away.
+[DE] Mach ’ne Fliege! [EN] Go away.
+[DE] Schwirr ab! [EN] Go away.
+[DE] Mach die Sause! [EN] Go away.
+[DE] Scher dich weg! [EN] Go away.
+[DE] Scher dich fort! [EN] Go away.
+[DE] Gehen Sie weg. [EN] Go away.
+[DE] Geh nach Hause. [EN] Go home.
+[DE] Geh heim. [EN] Go home.
+[DE] Auf Wiedersehen! [EN] Goodbye!
+[DE] Leb wohl! [EN] Goodbye!
+[DE] Tschüss! [EN] Goodbye!
+[DE] Auf Wiedersehen. [EN] Goodbye.
+[DE] Nicht nachlassen! [EN] Hang on!
+[DE] Warte! [EN] Hang on.
+[DE] Er kam. [EN] He came.
+[DE] Er ist gegangen. [EN] He left.
+[DE] Er rennt. [EN] He runs.
+[DE] Er läuft. [EN] He runs.
+[DE] Hilf mir. [EN] Help me.
+[DE] Hilf uns! [EN] Help us.
+[DE] Helft uns! [EN] Help us.
+[DE] Helfen Sie uns! [EN] Help us.
+[DE] Hallo, Tom! [EN] Hi, Tom.
+[DE] Schlage Tom! [EN] Hit Tom.
+[DE] Schlagt Tom! [EN] Hit Tom.
+[DE] Schlagen Sie Tom! [EN] Hit Tom.
+[DE] Nicht bewegen! [EN] Hold it!
+[DE] Warte! [EN] Hold it!
+[DE] Stehen bleiben! [EN] Hold it.
+[DE] Bleib stehen! [EN] Hold it.
+[DE] Bleiben Sie stehen! [EN] Hold it.
+[DE] Bleibt stehen! [EN] Hold it.
+[DE] Warten Sie kurz! [EN] Hold on.
+[DE] Das ist aber schade! [EN] How sad!
+[DE] Umarme Tom! [EN] Hug Tom.
+[DE] Umarmen Sie Tom! [EN] Hug Tom.
+[DE] Umarmt Tom! [EN] Hug Tom.
+[DE] Drückt Tom! [EN] Hug Tom.
+[DE] Drücken Sie Tom! [EN] Hug Tom.
+[DE] Drück Tom! [EN] Hug Tom.
+[DE] Ich bin einverstanden. [EN] I agree.
+[DE] Ich weinte. [EN] I cried.
+[DE] Ich habe geweint. [EN] I cried.
+[DE] Ich fuhr! [EN] I drove.
+[DE] Ich bin gefahren! [EN] I drove.
+[DE] Ich fror. [EN] I froze.
+[DE] Ich habe gefroren. [EN] I froze.
+[DE] Ich schnarche. [EN] I snore.
+[DE] Ich habe geschworen. [EN] I swore.
+[DE] Ich schwur. [EN] I swore.
+[DE] Ich winkte. [EN] I waved.
+[DE] Ich habe gewunken. [EN] I waved.
+[DE] Ich gehe. [EN] I'll go.
+[DE] Ich bin schlecht. [EN] I'm bad.
+[DE] Ich bin fett. [EN] I'm fat.
+[DE] Ich bin dick. [EN] I'm fat.
+[DE] Ich wurde getroffen! [EN] I'm hit!
+[DE] Mir ist heiß. [EN] I'm hot.
+[DE] Ich bin krank! [EN] I'm ill.
+[DE] Ich bin sauer. [EN] I'm mad.
+[DE] Ich bin verrückt. [EN] I'm mad.
+[DE] Ich bin neu. [EN] I'm new.
+[DE] Ich bin alt. [EN] I'm old.
+[DE] Ich bin traurig. [EN] I'm sad.
+[DE] Ich bin schüchtern. [EN] I'm shy.
+[DE] Ich bin nass. [EN] I'm wet.
+[DE] Es ist in Ordnung. [EN] It's OK.
+[DE] Ich bin’s. [EN] It's me!
+[DE] Ich bin’s. [EN] It's me.
+[DE] Komm mit. [EN] Join us.
+[DE] Kommt mit. [EN] Join us.
+[DE] Behalt es! [EN] Keep it.
+[DE] Behalt ihn! [EN] Keep it.
+[DE] Behalt sie! [EN] Keep it.
+[DE] Behalten Sie ihn! [EN] Keep it.
+[DE] Behalten Sie sie! [EN] Keep it.
+[DE] Behalten Sie es! [EN] Keep it.
+[DE] Behaltet ihn! [EN] Keep it.
+[DE] Behaltet sie! [EN] Keep it.
+[DE] Behaltet es! [EN] Keep it.
+[DE] Töte es! [EN] Kill it.
+[DE] Küsst mich. [EN] Kiss me.
+[DE] Küssen Sie mich. [EN] Kiss me.
+[DE] Leg dich hin! [EN] Lie low.
+[DE] Hinlegen! [EN] Lie low.
+[DE] Niederlegen! [EN] Lie low.
+[DE] Leg dich nieder! [EN] Lie low.
+[DE] Legt euch nieder! [EN] Lie low.
+[DE] Legen Sie sich nieder! [EN] Lie low.
+[DE] Legt euch hin! [EN] Lie low.
+[DE] Legen Sie sich hin! [EN] Lie low.
+[DE] Schließ es ab. [EN] Lock it.
+[DE] Schließe sie ab. [EN] Lock it.
+[DE] Schließ ihn ab. [EN] Lock it.
+[DE] Ich auch. [EN] Me, too.
+[DE] Mir auch. [EN] Me, too.
+[DE] Öffne es! [EN] Open it.
+[DE] Öffnet es! [EN] Open it.
+[DE] Öffnen Sie es! [EN] Open it.
+[DE] Mach auf! [EN] Open up.
+[DE] Perfekt! [EN] Perfect!
+[DE] Zieh dran. [EN] Pull it.
+[DE] Drück drauf. [EN] Push it.
+[DE] Sag „Ah!“ [EN] Say aah.
+[DE] Tschüss! [EN] See you!
+[DE] Man sieht sich! [EN] See you!
+[DE] Wir sehen uns. [EN] See you.
+[DE] Zeig's mir! [EN] Show me.
+[DE] Zeig her. [EN] Show me.
+[DE] Halt’s Maul! [EN] Shut up!
+[DE] Bis später! [EN] So long.
+[DE] Hör auf. [EN] Stop it.
+[DE] Nimm es. [EN] Take it.
+[DE] Nehmt es. [EN] Take it.
+[DE] Nehmen Sie es. [EN] Take it.
+[DE] Nimm's dir! [EN] Take it.
+[DE] Sag es mir. [EN] Tell me.
+[DE] Erzähl's mir. [EN] Tell me.
+[DE] Tom aß. [EN] Tom ate.
+[DE] Tom hat gegessen. [EN] Tom ate.
+[DE] Thomas versteckte sich. [EN] Tom hid.
+[DE] Thomas hat sich versteckt. [EN] Tom hid.
+[DE] Tom rannte. [EN] Tom ran.
+[DE] Tom ist gerannt. [EN] Tom ran.
+[DE] Tom hat gewonnen. [EN] Tom won.
+[DE] Warte mal! [EN] Wait up.
+[DE] Warten Sie mal! [EN] Wait up.
+[DE] Wartet mal! [EN] Wait up.
+[DE] Wach auf! [EN] Wake up!
+[DE] Wachen Sie auf! [EN] Wake up!
+[DE] Wach auf! [EN] Wake up.
+[DE] Wachen Sie auf! [EN] Wake up.
+[DE] Wasch dir die Hände. [EN] Wash up.
+[DE] Wasch dich. [EN] Wash up.
+[DE] Wasch dir das Gesicht. [EN] Wash up.
+[DE] Wir haben verloren. [EN] We lost.
+[DE] Wir schwammen. [EN] We swam.
+[DE] Willkommen! [EN] Welcome.
+[DE] Wer hat gegessen? [EN] Who ate?
+[DE] Wer aß? [EN] Who ate?
+[DE] Wer rannte? [EN] Who ran?
+[DE] Wer ist gerannt? [EN] Who ran?
+[DE] Wer hat gewonnen? [EN] Who won?
+[DE] Du läufst. [EN] You run.
+[DE] Sie laufen. [EN] You run.
+[DE] Du hast gewonnen. [EN] You win.
+[DE] Du hast gewonnen. [EN] You won.
+[DE] Alle aufstehen! [EN] All rise.
+[DE] Bin ich dick? [EN] Am I fat?
+[DE] Frag sie. [EN] Ask them.
+[DE] Komm nicht näher! [EN] Back off.
+[DE] Sei ein Mann! [EN] Be a man.
+[DE] Sei mutig! [EN] Be brave.
+[DE] Sei tapfer! [EN] Be brave.
+[DE] Seien Sie tapfer! [EN] Be brave.
+[DE] Seid tapfer! [EN] Be brave.
+[DE] Fassen Sie sich kurz. [EN] Be brief.
+[DE] Fass dich kurz. [EN] Be brief.
+[DE] Fasst euch kurz. [EN] Be brief.
+[DE] Sei leise. [EN] Be quiet.
+[DE] Seid leise. [EN] Be quiet.
+[DE] Seien Sie leise. [EN] Be quiet.
+[DE] Sei ruhig. [EN] Be still.
+[DE] Ruf Tom an! [EN] Call Tom.
+[DE] Rufe Tom an! [EN] Call Tom.
+[DE] Rufen Sie Tom an! [EN] Call Tom.
+[DE] Ruft Tom an! [EN] Call Tom.
+[DE] Kann ich gehen? [EN] Can I go?
+[DE] Fang mich! [EN] Catch me.
+[DE] Fangen Sie mich! [EN] Catch me.
+[DE] Fangt mich! [EN] Catch me.
+[DE] Kopf hoch! [EN] Cheer up!
+[DE] Reg dich ab! [EN] Cool off!
+[DE] Leg ihm Handschellen an. [EN] Cuff him.
+[DE] Legen Sie ihm Handschellen an. [EN] Cuff him.
+[DE] Geh nicht. [EN] Don't go.
+[DE] Fahr weiter. [EN] Drive on.
+[DE] Finde Tom. [EN] Find Tom.
+[DE] Findet Tom. [EN] Find Tom.
+[DE] Finden Sie Tom. [EN] Find Tom.
+[DE] Feuert Tom! [EN] Fire Tom.
+[DE] Beheben Sie das. [EN] Fix this.
+[DE] Behebe das. [EN] Fix this.
+[DE] Repariere das. [EN] Fix this.
+[DE] Reparieren Sie das. [EN] Fix this.
+[DE] Geh weg! [EN] Get away!
+[DE] Verpiss dich! [EN] Get away!
+[DE] Hau ab! [EN] Get away!
+[DE] Verschwinde! [EN] Get away!
+[DE] Verdufte! [EN] Get away!
+[DE] Mach dich fort! [EN] Get away!
+[DE] Zieh Leine! [EN] Get away!
+[DE] Mach dich vom Acker! [EN] Get away!
+[DE] Verzieh dich! [EN] Get away!
+[DE] Verkrümele dich! [EN] Get away!
+[DE] Troll dich! [EN] Get away!
+[DE] Zisch ab! [EN] Get away!
+[DE] Pack dich! [EN] Get away!
+[DE] Mach ’ne Fliege! [EN] Get away!
+[DE] Schwirr ab! [EN] Get away!
+[DE] Mach die Sause! [EN] Get away!
+[DE] Scher dich weg! [EN] Get away!
+[DE] Scher dich fort! [EN] Get away!
+[DE] Runter! [EN] Get down!
+[DE] Hinlegen! [EN] Get down!
+[DE] In Deckung! [EN] Get down!
+[DE] Komm runter. [EN] Get down.
+[DE] Kommen Sie runter. [EN] Get down.
+[DE] Geh weg! [EN] Get lost!
+[DE] Verpiss dich! [EN] Get lost!
+[DE] Hau ab! [EN] Get lost!
+[DE] Verschwinde! [EN] Get lost!
+[DE] Verdufte! [EN] Get lost!
+[DE] Mach dich fort! [EN] Get lost!
+[DE] Zieh Leine! [EN] Get lost!
+[DE] Mach dich vom Acker! [EN] Get lost!
+[DE] Verzieh dich! [EN] Get lost!
+[DE] Verkrümele dich! [EN] Get lost!
+[DE] Troll dich! [EN] Get lost!
+[DE] Zisch ab! [EN] Get lost!
+[DE] Pack dich! [EN] Get lost!
+[DE] Mach ’ne Fliege! [EN] Get lost!
+[DE] Schwirr ab! [EN] Get lost!
+[DE] Mach die Sause! [EN] Get lost!
+[DE] Scher dich weg! [EN] Get lost!
+[DE] Scher dich fort! [EN] Get lost!
+[DE] Schleich dich! [EN] Get lost.
+[DE] Jetzt mal ernsthaft! [EN] Get real!
+[DE] Nur zu! [EN] Go ahead!
+[DE] Mach weiter! [EN] Go ahead.
+[DE] Geh da hin! [EN] Go there.
+[DE] Hol Tom. [EN] Grab Tom.
+[DE] Greif ihn dir! [EN] Grab him.
+[DE] Viel Vergnügen! [EN] Have fun.
+[DE] Viel Spaß! [EN] Have fun.
+[DE] Feier schön! [EN] Have fun.
+[DE] Er sprach. [EN] He spoke.
+[DE] Er versuchte es. [EN] He tried.
+[DE] Er hat es versucht. [EN] He tried.
+[DE] Er versucht es. [EN] He tries.
+[DE] Er ist Tom. [EN] He's Tom.
+[DE] Hilf Tom! [EN] Help Tom.
+[DE] Helft Tom! [EN] Help Tom.
+[DE] Helfen Sie Tom! [EN] Help Tom.
+[DE] Was ist das nicht süß! [EN] How cute!
+[DE] Wie süß! [EN] How cute!
+[DE] Wie niedlich! [EN] How cute!
+[DE] Wie tief? [EN] How deep?
+[DE] Wie schön! [EN] How nice!
+[DE] Wie unverschämt! [EN] How rude!
+[DE] Wie unhöflich! [EN] How rude!
+[DE] Tu mir den Gefallen. [EN] Humor me.
+[DE] Tun Sie mir den Gefallen. [EN] Humor me.
+[DE] Beeil dich! [EN] Hurry up.
+[DE] Beeil dich. [EN] Hurry up.
+[DE] Mach hin! [EN] Hurry up.
+[DE] Ich kann gehen. [EN] I can go.
+[DE] Ich bin der gleichen Ansicht. [EN] I concur.
+[DE] Ich fluchte. [EN] I cursed.
+[DE] Ich habe geflucht. [EN] I cursed.
+[DE] Ich habe es geschafft. [EN] I did it.
+[DE] Ich hab's gemacht. [EN] I did it.
+[DE] Ich spiele. [EN] I gamble.
+[DE] Ich komme klar. [EN] I get by.
+[DE] Ich komme zurecht. [EN] I get by.
+[DE] Ich komme über die Runden. [EN] I get by.
+[DE] Ich verstehe. [EN] I get it.
+[DE] Ich bin reingekommen. [EN] I got in.
+[DE] Ich bin hineingekommen. [EN] I got in.
+[DE] Ich habe es verstanden. [EN] I got it.
+[DE] Ich habe es bekommen. [EN] I got it.
+[DE] Ich hab's. [EN] I got it.
+[DE] Ich hatte es. [EN] I had it.
+[DE] Ich half. [EN] I helped.
+[DE] Ich habe geholfen. [EN] I helped.
+[DE] Ich bin gesprungen. [EN] I jumped.
+[DE] Ich stöhnte. [EN] I moaned.
+[DE] Ich ächzte. [EN] I moaned.
+[DE] Ich nickte. [EN] I nodded.
+[DE] Ich hielt an. [EN] I paused.
+[DE] Ich pausierte. [EN] I paused.
+[DE] Ich betete. [EN] I prayed.
+[DE] Ich weigere mich. [EN] I refuse.
+[DE] Ich trete zurück. [EN] I resign.
+[DE] Ich rastete. [EN] I rested.
+[DE] Ich rasierte mich. [EN] I shaved.
+[DE] Ich habe mich rasiert. [EN] I shaved.
+[DE] Ich lächelte. [EN] I smiled.
+[DE] Ich blieb. [EN] I stayed.
+[DE] Ich bin dageblieben. [EN] I stayed.
+[DE] Ich benutze es. [EN] I use it.
+[DE] Ich habe gewartet. [EN] I waited.
+[DE] Ich blinzelte. [EN] I winked.
+[DE] Ich zwinkerte. [EN] I winked.
+[DE] Ich gähnte. [EN] I yawned.
+[DE] Ich habe gegähnt. [EN] I yawned.
+[DE] Ich würde springen. [EN] I'd jump.
+[DE] Ich spränge. [EN] I'd jump.
+[DE] Ich werde zahlen. [EN] I'll pay.
+[DE] Ich werde es versuchen. [EN] I'll try.
+[DE] Ich bin DJ. [EN] I'm a DJ.
+[DE] Ich bin wieder da. [EN] I'm back.
+[DE] Ich bin glatzköpfig. [EN] I'm bald.
+[DE] Ich habe eine Glatze. [EN] I'm bald.
+[DE] Ich bin beschäftigt. [EN] I'm busy.
+[DE] Ich habe zu tun. [EN] I'm busy.
+[DE] Ich bin cool. [EN] I'm cool.
+[DE] Ich bin taub. [EN] I'm deaf.
+[DE] Ich bin gehörlos. [EN] I'm deaf.
+[DE] Ich bin gerecht. [EN] I'm fair.
+[DE] Mir geht's gut. [EN] I'm fine.
+[DE] Mir geht es gut. [EN] I'm fine.
+[DE] Es geht mir gut. [EN] I'm fine.
+[DE] Ich bin frei. [EN] I'm free.
+[DE] Ich bin satt. [EN] I'm full.
+[DE] Ich bin dabei. [EN] I'm game.
+[DE] Ich mache mit. [EN] I'm game.
+[DE] Mir geht's gut. [EN] I'm good.
+[DE] Ich bin hier. [EN] I'm here.
+[DE] Ich bin zu Hause. [EN] I'm home.
+[DE] Ich bin verletzt. [EN] I'm hurt.
+[DE] Ich bin verwundet. [EN] I'm hurt.
+[DE] Ich komme zu spät. [EN] I'm late.
+[DE] Ich habe mich verirrt. [EN] I'm lost.
+[DE] Ich bin gemein. [EN] I'm mean.
+[DE] Ich bin der Nächste. [EN] I'm next.
+[DE] Es geht mir gut. [EN] I'm okay.
+[DE] Ich bin reich. [EN] I'm rich.
+[DE] Ich bin sicher. [EN] I'm safe.
+[DE] Ich bin krank! [EN] I'm sick.
+[DE] Ich bin sicher. [EN] I'm sure.
+[DE] Ich bin groß. [EN] I'm tall.
+[DE] Ich bin dünn. [EN] I'm thin.
+[DE] Ich bin ordentlich. [EN] I'm tidy.
+[DE] Ich bin hässlich. [EN] I'm ugly.
+[DE] Ich sehe schlecht aus. [EN] I'm ugly.
+[DE] Ich bin schwach. [EN] I'm weak.
+[DE] Mir geht es gut. [EN] I'm well.
+[DE] Es geht mir gut. [EN] I'm well.
+[DE] Das hilft. [EN] It helps.
+[DE] Es tut weh. [EN] It hurts.
+[DE] Es schmerzt. [EN] It hurts.
+[DE] Es klappt. [EN] It works.
+[DE] Es funktioniert. [EN] It works.
+[DE] Es ist Tom. [EN] It's Tom.
+[DE] Das ist mies. [EN] It's bad.
+[DE] Das ist übel. [EN] It's bad.
+[DE] Sie ist groß. [EN] It's big.
+[DE] Es ist trocken. [EN] It's dry.
+[DE] Es ist seins. [EN] It's his.
+[DE] Es ist heiß. [EN] It's hot.
+[DE] Sie ist heiß. [EN] It's hot.
+[DE] Er ist heiß. [EN] It's hot.
+[DE] Es ist neu. [EN] It's new.
+[DE] Das ist rot. [EN] It's red.
+[DE] Es ist traurig. [EN] It's sad.
+[DE] Das ist Tee. [EN] It's tea.
+[DE] Eintritt verboten! [EN] Keep out!
+[DE] Komm nicht herein. [EN] Keep out.
+[DE] Kein Zutritt. [EN] Keep out.
+[DE] Töte Thomas! [EN] Kill Tom.
+[DE] Tötet Thomas! [EN] Kill Tom.
+[DE] Töten Sie Thomas! [EN] Kill Tom.
+[DE] Küsse Tom! [EN] Kiss Tom.
+[DE] Küssen Sie Tom! [EN] Kiss Tom.
+[DE] Küsst Tom! [EN] Kiss Tom.
+[DE] Geh weg! [EN] Leave us.
+[DE] Gehen Sie weg. [EN] Leave us.
+[DE] Lass uns allein. [EN] Leave us.
+[DE] Lassen Sie uns allein. [EN] Leave us.
+[DE] Lass uns gehen! [EN] Let's go!
+[DE] Auf geht's! [EN] Let's go!
+[DE] Gehen wir! [EN] Let's go!
+[DE] Lasst uns gehen. [EN] Let's go!
+[DE] Lass uns losgehen. [EN] Let's go!
+[DE] Lasst uns losgehen. [EN] Let's go!
+[DE] Auf, auf! [EN] Let's go!
+[DE] Vorsicht! [EN] Look out!
+[DE] Heirate mich. [EN] Marry me.
+[DE] Darf ich gehen? [EN] May I go?
+[DE] Unsinn! [EN] Nonsense!
+[DE] Quatsch! [EN] Nonsense!
+[DE] Blödsinn! [EN] Nonsense!
+[DE] Rette Tom! [EN] Save Tom.
+[DE] Rettet Tom! [EN] Save Tom.
+[DE] Retten Sie Tom! [EN] Save Tom.
+[DE] Sie kam. [EN] She came.
+[DE] Sie ist gegangen. [EN] She left.
+[DE] Sie rennt. [EN] She runs.
+[DE] Setz dich! [EN] Sit down!
+[DE] Setzen Sie sich! [EN] Sit down!
+[DE] Setz dich! [EN] Sit down.
+[DE] Sprich lauter! [EN] Speak up!
+[DE] Leg mal ’n Zahn zu! [EN] Speed up.
+[DE] Stehen Sie auf! [EN] Stand up!
+[DE] Steht auf! [EN] Stand up!
+[DE] Stehe auf! [EN] Stand up!
+[DE] Steh auf. [EN] Stand up.
+[DE] Halte Tom auf! [EN] Stop Tom.
+[DE] Halten Sie Tom auf! [EN] Stop Tom.
+[DE] Haltet Tom auf! [EN] Stop Tom.
+[DE] Nimm Tom. [EN] Take Tom.
+[DE] Probier es mal. [EN] Taste it.
+[DE] Sag es Tom. [EN] Tell Tom.
+[DE] Sagen Sie es Tom. [EN] Tell Tom.
+[DE] Erzähl es Tom. [EN] Tell Tom.
+[DE] Erzählen Sie Tom davon. [EN] Tell Tom.
+[DE] Sagt es Tom. [EN] Tell Tom.
+[DE] Hervorragend! [EN] Terrific!
+[DE] Sagenhaft! [EN] Terrific!
+[DE] Wunderbar! [EN] Terrific!
+[DE] Sie haben gewonnen. [EN] They won.
+[DE] Tom kam. [EN] Tom came.
+[DE] Tom ist gekommen. [EN] Tom came.
+[DE] Tom ist gestorben. [EN] Tom died.
+[DE] Tom starb. [EN] Tom died.
+[DE] Tom fiel. [EN] Tom fell.
+[DE] Tom ist gefallen. [EN] Tom fell.
+[DE] Tom wusste es. [EN] Tom knew.
+[DE] Tom hat es gewusst. [EN] Tom knew.
+[DE] Tom wusste Bescheid. [EN] Tom knew.
+[DE] Tom ist gegangen. [EN] Tom left.
+[DE] Tom ging. [EN] Tom left.
+[DE] Tom hat gelogen. [EN] Tom lied.
+[DE] Tom log. [EN] Tom lied.
+[DE] Tom lügt. [EN] Tom lies.
+[DE] Tom hat verloren. [EN] Tom lost.
+[DE] Tom hat gezahlt. [EN] Tom paid.
+[DE] Tom hat aufgehört. [EN] Tom quit.
+[DE] Tom sang. [EN] Tom sang.
+[DE] Thomas spuckte. [EN] Tom spit.
+[DE] Thomas hat gespuckt. [EN] Tom spit.
+[DE] Tom schwamm. [EN] Tom swam.
+[DE] Tom ist geschwommen. [EN] Tom swam.
+[DE] Tom ging. [EN] Tom went.
+[DE] Tom weinte. [EN] Tom wept.
+[DE] Tom ist auf. [EN] Tom's up.
+[DE] Zu spät. [EN] Too late.
+[DE] Fass es an. [EN] Touch it.
+[DE] Vertraue mir! [EN] Trust me!
+[DE] Vertraue mir. [EN] Trust me.
+[DE] Vertraut mir! [EN] Trust me.
+[DE] Vertrauen Sie mir! [EN] Trust me.
+[DE] Versuch es richtig! [EN] Try hard.
+[DE] Versuch ein bisschen. [EN] Try some.
+[DE] Probier mal. [EN] Try some.
+[DE] Probier mal! [EN] Try this.
+[DE] Nimm das hier! [EN] Use this.
+[DE] Besuche uns. [EN] Visit us.
+[DE] Besuchen Sie uns. [EN] Visit us.
+[DE] Warnen Sie Tom. [EN] Warn Tom.
+[DE] Warne Tom. [EN] Warn Tom.
+[DE] Schau mir zu. [EN] Watch me.
+[DE] Schauen Sie mir zu. [EN] Watch me.
+[DE] Beobachte uns. [EN] Watch us.
+[DE] Beobachten Sie uns. [EN] Watch us.
+[DE] Schau uns zu. [EN] Watch us.
+[DE] Schaut uns zu. [EN] Watch us.
+[DE] Schauen Sie uns zu. [EN] Watch us.
+[DE] Beobachtet uns. [EN] Watch us.
+[DE] Wir stimmen zu. [EN] We agree.
+[DE] Wir sind einverstanden. [EN] We agree.
+[DE] Wir haben es versucht. [EN] We tried.
+[DE] Wir versuchten es. [EN] We tried.
+[DE] Wir werden gehen. [EN] We'll go.
+[DE] Wir sind in Ordnung. [EN] We're OK.
+[DE] Wozu? [EN] What for?
+[DE] Was für ein Spaß! [EN] What fun!
+[DE] Was jetzt? [EN] What now?
+[DE] Wer bin ich? [EN] Who am I?
+[DE] Wer ist gekommen? [EN] Who came?
+[DE] Wer kam? [EN] Who came?
+[DE] Wer ist gestorben? [EN] Who died?
+[DE] Wer fiel? [EN] Who fell?
+[DE] Wer ist gefallen? [EN] Who fell?
+[DE] Wer hat verloren? [EN] Who lost?
+[DE] Wer hat aufgehört? [EN] Who quit?
+[DE] Wer ist ausgeschieden? [EN] Who quit?
+[DE] Wer schwamm? [EN] Who swam?
+[DE] Wer ist geschwommen? [EN] Who swam?
+[DE] Wer ist er? [EN] Who's he?
+[DE] Schreib mir! [EN] Write me.
+[DE] Schreiben Sie mir! [EN] Write me.
+[DE] Schreibt mir! [EN] Write me.
+[DE] Sie haben verloren. [EN] You lost.
+[DE] Du hast verloren. [EN] You lost.
+[DE] Ihr habt verloren. [EN] You lost.
+[DE] Nach euch. [EN] After you.
+[DE] Zielen. Feuer! [EN] Aim. Fire!
+[DE] Bin ich tot? [EN] Am I dead?
+[DE] Bin ich zu spät? [EN] Am I late?
+[DE] Bin ich als nächstes dran? [EN] Am I next?
+[DE] Spinne ich? [EN] Am I nuts?
+[DE] Amen, Tom. [EN] Amen, Tom.
+[DE] Antworten Sie mir. [EN] Answer me.
+[DE] Setz dich! [EN] Be seated.
+[DE] Setzen Sie sich. [EN] Be seated.
+[DE] Vögel fliegen. [EN] Birds fly.
+[DE] Gesundheit. [EN] Bless you.
+[DE] Leg dir eine Schusswaffe zu! [EN] Buy a gun.
+[DE] Ruf zuhause an! [EN] Call home!
+[DE] Rufen Sie zuhause an! [EN] Call home!
+[DE] Beruhige dich! [EN] Calm down!
+[DE] Beruhige dich! [EN] Calm down.
+[DE] Beruhigen Sie sich! [EN] Calm down.
+[DE] Beruhigen Sie sich. [EN] Calm down.
+[DE] Kann ich essen? [EN] Can I eat?
+[DE] Können wir gehen? [EN] Can we go?
+[DE] Fang Tom! [EN] Catch Tom.
+[DE] Fange Tom! [EN] Catch Tom.
+[DE] Fangen Sie Tom! [EN] Catch Tom.
+[DE] Fangt Tom! [EN] Catch Tom.
+[DE] Fang ihn. [EN] Catch him.
+[DE] Entspann dich. [EN] Chill out.
+[DE] Komm wieder! [EN] Come back.
+[DE] Komm hierher. [EN] Come here.
+[DE] Komm her! [EN] Come here.
+[DE] Kommt her! [EN] Come here.
+[DE] Kommt heim! [EN] Come home.
+[DE] Komm heim! [EN] Come home.
+[DE] Komm her! [EN] Come over.
+[DE] Komm bald. [EN] Come soon.
+[DE] Kommen Sie bald. [EN] Come soon.
+[DE] Beruhige dich! [EN] Cool down.
+[DE] Habe ich gewonnen? [EN] Did I win?
+[DE] Mach es jetzt! [EN] Do it now.
+[DE] Mach es jetzt sofort. [EN] Do it now.
+[DE] Hunde bellen. [EN] Dogs bark.
+[DE] Frag nicht. [EN] Don't ask.
+[DE] Weine nicht! [EN] Don't cry.
+[DE] Weint nicht. [EN] Don't cry.
+[DE] Weinen Sie nicht. [EN] Don't cry.
+[DE] Weinen Sie nicht! [EN] Don't cry.
+[DE] Weint nicht! [EN] Don't cry.
+[DE] Stirb nicht! [EN] Don't die.
+[DE] Lüge nicht! [EN] Don't lie.
+[DE] Lüge nicht. [EN] Don't lie.
+[DE] Lauf nicht. [EN] Don't run.
+[DE] Es tut mir leid. [EN] Excuse me.
+[DE] Entschuldigung! [EN] Excuse me.
+[DE] Entschuldigung. [EN] Excuse me.
+[DE] Entschuldigen Sie! [EN] Excuse me.
+[DE] Verzeihung. [EN] Excuse me.
+[DE] Verzeihung? [EN] Excuse me?
+[DE] Fantastisch! [EN] Fantastic!
+[DE] Ganz toll! [EN] Fantastic!
+[DE] Fühl mal. [EN] Feel this.
+[DE] Folge mir. [EN] Follow me.
+[DE] Folge uns! [EN] Follow us.
+[DE] Folgen Sie uns! [EN] Follow us.
+[DE] Vergiss es! [EN] Forget it!
+[DE] Daraus wird nichts. [EN] Forget it!
+[DE] Vergiss es. [EN] Forget it.
+[DE] Das kannst du knicken. [EN] Forget it.
+[DE] Vergiss mich! [EN] Forget me.
+[DE] Vergesst mich! [EN] Forget me.
+[DE] Vergessen Sie mich! [EN] Forget me.
+[DE] Mach dich bereit! [EN] Get ready.
+[DE] Mach dich fertig. [EN] Get ready.
+[DE] Nur zu! [EN] Go for it.
+[DE] Tue es. [EN] Go for it.
+[DE] Hol's dir! [EN] Go get it.
+[DE] Geh rein! [EN] Go inside.
+[DE] Komm rein. [EN] Go inside.
+[DE] Geh schlafen. [EN] Go to bed.
+[DE] Geh schlafen! [EN] Go to bed.
+[DE] Gehe schlafen! [EN] Go to bed.
+[DE] Gehen Sie schlafen! [EN] Go to bed.
+[DE] Geh ins Bett! [EN] Go to bed.
+[DE] Geht ins Bett! [EN] Go to bed.
+[DE] Legt euch schlafen! [EN] Go to bed.
+[DE] Gute Nacht. [EN] Goodnight.
+[DE] Schönen Abend. [EN] Goodnight.
+[DE] Nimm das. [EN] Grab that.
+[DE] Hol das. [EN] Grab that.
+[DE] Schnapp dir das. [EN] Grab this.
+[DE] Hände weg! [EN] Hands off.
+[DE] Nimm dir davon. [EN] Have some.
+[DE] Nehmen Sie davon. [EN] Have some.
+[DE] Er ist krank. [EN] He is ill.
+[DE] Er ist alt. [EN] He is old.
+[DE] Er rasierte sich. [EN] He shaved.
+[DE] Er lächelte. [EN] He smiled.
+[DE] Er ist DJ. [EN] He's a DJ.
+[DE] Er ist Plattenaufleger. [EN] He's a DJ.
+[DE] Er hat zu tun. [EN] He's busy.
+[DE] Er ist schnell. [EN] He's fast.
+[DE] Er ist gut. [EN] He's good.
+[DE] Er ist träge. [EN] He's lazy.
+[DE] Er ist reich. [EN] He's rich.
+[DE] Er ist sexy. [EN] He's sexy.
+[DE] Fahr Richtung Osten. [EN] Head east.
+[DE] Fahren Sie Richtung Osten. [EN] Head east.
+[DE] Fahrt Richtung Osten. [EN] Head east.
+[DE] Hier bin ich. [EN] Here I am.
+[DE] Hier sind fünf Dollar. [EN] Here's $5.
+[DE] Nicht schießen! [EN] Hold fire.
+[DE] Halt das! [EN] Hold this.
+[DE] Halt das mal. [EN] Hold this.
+[DE] Halten Sie das! [EN] Hold this.
+[DE] Haltet das! [EN] Hold this.
+[DE] Schrecklich! [EN] How awful!
+[DE] Wie ist die Lage? [EN] How is it?
+[DE] Wie seltsam! [EN] How weird!
+[DE] Lass Tom doch seinen Willen. [EN] Humor Tom.
+[DE] Lasst Tom doch seinen Willen. [EN] Humor Tom.
+[DE] Mir geht's gut. [EN] I am good.
+[DE] Mir geht es gut. [EN] I am good.
+[DE] Es geht mir gut. [EN] I am good.
+[DE] Ich bin hier. [EN] I am here.
+[DE] Es geht mir gut. [EN] I am okay.
+[DE] Ich bin sicher. [EN] I am sure.
+[DE] Ich bin groß. [EN] I am tall.
+[DE] Ich bin schwach. [EN] I am weak.
+[DE] Mir geht es gut. [EN] I am well.
+[DE] Es geht mir gut. [EN] I am well.
+[DE] Ich bin einverstanden. [EN] I approve.
+[DE] Ich kann fliegen. [EN] I can fly.
+[DE] Ich kann laufen. [EN] I can run.
+[DE] Ich kann rennen. [EN] I can run.
+[DE] Ich kann Ski fahren. [EN] I can ski.
+[DE] Ich kann gewinnen. [EN] I can win.
+[DE] Ich änderte mich. [EN] I changed.
+[DE] Ich habe geschummelt. [EN] I cheated.
+[DE] Ich klatschte. [EN] I clapped.
+[DE] Ich hustete. [EN] I coughed.
+[DE] Ich habe gehustet. [EN] I coughed.
+[DE] Es macht mir in der Tat etwas aus. [EN] I do mind.
+[DE] Ich entkam. [EN] I escaped.
+[DE] Ich bin entkommen. [EN] I escaped.
+[DE] Ich wurde ohnmächtig. [EN] I fainted.
+[DE] Ich fiel in Ohnmacht. [EN] I fainted.
+[DE] Ich fürchte, ja. [EN] I fear so.
+[DE] Ich runzelte die Stirn. [EN] I frowned.
+[DE] Ich habe aufgegeben. [EN] I gave up.
+[DE] Ich gab auf. [EN] I gave up.
+[DE] Ich verstehe, was du meinst. [EN] I get you.
+[DE] Ich kicherte. [EN] I giggled.
+[DE] Ich gebe auf. [EN] I give in.
+[DE] Ich gebe nach. [EN] I give in.
+[DE] Ich füge mich. [EN] I give in.
+[DE] Ich gebe auf. [EN] I give up.
+[DE] Ich geb’s auf. [EN] I give up.
+[DE] Mir wurde heiß. [EN] I got hot.
+[DE] Ich wurde wütend. [EN] I got mad.
+[DE] Ich wurde böse. [EN] I got mad.
+[DE] Ich habe dich. [EN] I got you.
+[DE] Ich hatte Spaß. [EN] I had fun.
+[DE] Ich habe mich amüsiert. [EN] I had fun.
+[DE] Ich hasse es. [EN] I hate it.
+[DE] Ich habe es. [EN] I have it.
+[DE] Ich habe Tom geschlagen. [EN] I hit Tom.
+[DE] Ich schlage Tom. [EN] I hit Tom.
+[DE] Ich schlug Tom. [EN] I hit Tom.
+[DE] Das hoffe ich. [EN] I hope so.
+[DE] Ich hoffe es. [EN] I hope so.
+[DE] Ich habe aufgelegt. [EN] I hung up.
+[DE] Ich habe mich beeilt. [EN] I hurried.
+[DE] Ich wusste es. [EN] I knew it.
+[DE] Ich wusste das. [EN] I knew it.
+[DE] Ich lachte. [EN] I laughed.
+[DE] Das gefällt mir. [EN] I like it.
+[DE] Es ist mir recht. [EN] I like it.
+[DE] Ich habe ihn verloren. [EN] I lost it.
+[DE] Ich liebe es! [EN] I love it!
+[DE] Ich liebe es. [EN] I love it.
+[DE] Ich habe es gemacht. [EN] I made it.
+[DE] Ich habe es geschafft. [EN] I made it.
+[DE] Vielleicht gewinne ich. [EN] I may win.
+[DE] Ich meine es so! [EN] I mean it!
+[DE] Ich meine es ernst! [EN] I mean it!
+[DE] Ich meine es ernst. [EN] I mean it.
+[DE] Es ist ernst gemeint von mir. [EN] I mean it.
+[DE] Ich habe Tom getroffen. [EN] I met Tom.
+[DE] Ich traf Tom. [EN] I met Tom.
+[DE] Ich bin Tom begegnet. [EN] I met Tom.
+[DE] Ich habe ihn getroffen. [EN] I met him.
+[DE] Ich vermisse es. [EN] I miss it.
+[DE] Es fehlt mir. [EN] I miss it.
+[DE] Ich versprech's. [EN] I promise.
+[DE] Ich verspreche es. [EN] I promise.
+[DE] Ich entspanne mich. [EN] I relaxed.
+[DE] Ich habe mich entspannt. [EN] I relaxed.
+[DE] Ich ging in Pension. [EN] I retired.
+[DE] Ich sagte nein. [EN] I said no.
+[DE] Ich habe Tom gesehen. [EN] I saw Tom.
+[DE] Ich habe ihn gesehen. [EN] I saw him.
+[DE] Ich habe einen gesehen. [EN] I saw one.
+[DE] Ich habe dich gesehen. [EN] I saw you.
+[DE] Ich habe euch gesehen. [EN] I saw you.
+[DE] Ich habe Sie gesehen. [EN] I saw you.
+[DE] Ich sehe Tom. [EN] I see Tom.
+[DE] Ich schrie. [EN] I shouted.
+[DE] Ich rutschte aus. [EN] I slipped.
+[DE] Ich bin ausgerutscht. [EN] I slipped.
+[DE] Ich nieste. [EN] I sneezed.
+[DE] Ich habe geniest. [EN] I sneezed.
+[DE] Ich beschleunigte. [EN] I sped up.
+[DE] Ich hörte auf. [EN] I stopped.
+[DE] Ich stoppte. [EN] I stopped.
+[DE] Ich stottere. [EN] I stutter.
+[DE] Ich nahm es. [EN] I took it.
+[DE] Ich habe es genommen. [EN] I took it.
+[DE] Ich möchte es. [EN] I want it.
+[DE] Ich will es. [EN] I want it.
+[DE] Ich war krank. [EN] I was ill.
+[DE] Ich war verrückt. [EN] I was mad.
+[DE] Ich war neu. [EN] I was new.
+[DE] Ich war traurig. [EN] I was sad.
+[DE] Ich war schüchtern. [EN] I was shy.
+[DE] Ich gehe. [EN] I will go.
+[DE] Ich werde gehen. [EN] I will go.
+[DE] Ich wachte auf. [EN] I woke up.
+[DE] Ich würde es tun. [EN] I'd do it.
+[DE] Ich würde gehen. [EN] I'd leave.
+[DE] Ich werde anrufen. [EN] I'll call.
+[DE] Ich werde kommen. [EN] I'll come.
+[DE] Ich werde kochen. [EN] I'll cook.
+[DE] Ich werde scheitern. [EN] I'll fail.
+[DE] Ich helfe. [EN] I'll help.
+[DE] Ich werde leben. [EN] I'll live.
+[DE] Ich werde gehorchen. [EN] I'll obey.
+[DE] Ich passe. [EN] I'll pass.
+[DE] Ich verzichte. [EN] I'll pass.
+[DE] Ich werde aufhören. [EN] I'll quit.
+[DE] Ich werde abbrechen. [EN] I'll quit.
+[DE] Ich werde singen. [EN] I'll sing.
+[DE] Ich werde bleiben. [EN] I'll stay.
+[DE] Ich werde aufhören. [EN] I'll stop.
+[DE] Ich werde schwimmen. [EN] I'll swim.
+[DE] Ich werde reden. [EN] I'll talk.
+[DE] Ich werde warten. [EN] I'll wait.
+[DE] Ich gehe zu Fuß. [EN] I'll walk.
+[DE] Ich werde zu Fuß gehen. [EN] I'll walk.
+[DE] Ich bin ein Mann. [EN] I'm a man.
+[DE] Ich bin ein Profi. [EN] I'm a pro.
+[DE] Ich bin eine Spionin. [EN] I'm a spy.
+[DE] Ich bin Spion. [EN] I'm a spy.
+[DE] Ich bin Spionin. [EN] I'm a spy.
+[DE] Ich bin allein. [EN] I'm alone.
+[DE] Ich bin sauer. [EN] I'm angry.
+[DE] Ich bin wach. [EN] I'm awake.
+[DE] Ich bin blind. [EN] I'm blind.
+[DE] Ich bin gelangweilt. [EN] I'm bored.
+[DE] Mir ist langweilig. [EN] I'm bored.
+[DE] Ich bin knapp bei Kasse. [EN] I'm broke.
+[DE] Ich bin pleite. [EN] I'm broke.
+[DE] Ich bin verrückt. [EN] I'm crazy.
+[DE] Ich bin geheilt. [EN] I'm cured.
+[DE] Ich bin betrunken. [EN] I'm drunk.
+[DE] Ich bin blau. [EN] I'm drunk.
+[DE] Ich bin breit. [EN] I'm drunk.
+[DE] Ich werde bald sterben. [EN] I'm dying.
+[DE] Ich bin früh dran. [EN] I'm early.
+[DE] Ich bin Erster. [EN] I'm first.
+[DE] Ich bin Erste. [EN] I'm first.
+[DE] Ich bin pingelig. [EN] I'm fussy.
+[DE] Ich gehe jetzt. [EN] I'm going.
+[DE] Ich bin glücklich. [EN] I'm happy.
+[DE] Ich bin froh. [EN] I'm happy.
+[DE] Ich bin schwer. [EN] I'm heavy.
+[DE] Ich lüge. [EN] I'm lying.
+[DE] Ich bin bedürftig. [EN] I'm needy.
+[DE] Ich bin fett. [EN] I'm obese.
+[DE] Ich bin pingelig. [EN] I'm picky.
+[DE] Ich bin wählerisch. [EN] I'm picky.
+[DE] Ich bin soweit! [EN] I'm ready!
+[DE] Ich bin soweit. [EN] I'm ready.
+[DE] Ich bin so weit. [EN] I'm ready.
+[DE] Ich habe recht. [EN] I'm right.
+[DE] Ich habe Recht. [EN] I'm right.
+[DE] Ich bin albern. [EN] I'm silly.
+[DE] Ich bin dämlich. [EN] I'm silly.
+[DE] Ich bin nüchtern. [EN] I'm sober.
+[DE] Es tut mir leid. [EN] I'm sorry.
+[DE] Entschuldigung! [EN] I'm sorry.
+[DE] Entschuldigung. [EN] I'm sorry.
+[DE] Ich stecke fest. [EN] I'm stuck.
+[DE] Ich bin müde! [EN] I'm tired.
+[DE] Ich bin müde. [EN] I'm tired.
+[DE] Ich bin zäh. [EN] I'm tough.
+[DE] Ich bin verärgert. [EN] I'm upset.
+[DE] Ich bin bestürzt. [EN] I'm upset.
+[DE] Ich habe mich geirrt. [EN] I'm wrong.
+[DE] Ich liege falsch. [EN] I'm wrong.
+[DE] Ich gehöre dir. [EN] I'm yours.
+[DE] Ich habe verloren. [EN] I've lost.
+[DE] Beachte es gar nicht! [EN] Ignore it.
+[DE] Beachten Sie es gar nicht! [EN] Ignore it.
+[DE] Ist Tom okay? [EN] Is Tom OK?
+[DE] Ist Tom da? [EN] Is Tom in?
+[DE] Ist das Tom? [EN] Is he Tom?
+[DE] Ist er Tom? [EN] Is he Tom?
+[DE] Ist das Tom? [EN] Is it Tom?
+[DE] Ist es schlimm? [EN] Is it bad?
+[DE] Ist es schlecht? [EN] Is it bad?
+[DE] Ist das weit? [EN] Is it far?
+[DE] Ist es heiß? [EN] Is it hot?
+[DE] Ist es neu? [EN] Is it new?
+[DE] Ist es rot? [EN] Is it red?
+[DE] Ist sie rot? [EN] Is it red?
+[DE] Sie hat mich gebissen. [EN] It bit me.
+[DE] Es brannte. [EN] It burned.
